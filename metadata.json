@@ -1,0 +1,8 @@
+{
+  "name": "CheckMaster Auto",
+  "description": "Professional automotive service management system for tracker installers, companies, and clients. Secure, fast, and role-based access control.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ]
+}
